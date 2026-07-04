@@ -128,6 +128,7 @@ The database was designed using the **Code First** approach with **Entity Framew
 
 > Restaurant statistics and analytical overview.
 
+![image]([https://user-images.githubusercontent.com/xxxx/xxxx.png](https://github.com/user-attachments/assets/ade7560a-22f2-4a69-90e9-e024fa795882))
 <img width="1906" height="1079" alt="2) Statistics-Index-1" src="https://github.com/user-attachments/assets/ade7560a-22f2-4a69-90e9-e024fa795882" />
 <img width="1904" height="1079" alt="3) Statistics-Index-2" src="https://github.com/user-attachments/assets/037139e0-d7a2-4cfa-ac86-4b85dede6771" />
 
